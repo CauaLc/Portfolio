@@ -127,8 +127,9 @@ body{
 }
 
 .apresentaçao__imagem{
-  width: 50%;
+  width: 100px;
   border-radius: 50px;
+  background-color: var(--cor-primaria)
 }
 
 
