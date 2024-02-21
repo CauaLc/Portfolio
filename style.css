@@ -127,14 +127,11 @@ body{
 }
 
 .apresentaçao__imagem{
-  width: 600px;
+  width: 50%;
   border-radius: 50px;
-  background-color: var(--cor-primaria)
+
 }
 
-.figura{
-    background-color: var(--cor-primaria)
-}
 
 
 
